@@ -5,7 +5,7 @@ import '../components/About.css';
 const AboutMe = () => {
   return (
     <>
-     <section id="about" className=''>
+     <section id="about">
         <Container className='my-5'>
             <Row>
                 <Col md={6} className='d-none d-md-block '>
